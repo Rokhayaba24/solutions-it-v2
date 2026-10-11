@@ -41,3 +41,10 @@ yarn-error.log
 /boost.json
 /opencode.json
 /opencode.jsonc
+
+/storage/framework/views/*
+!/storage/framework/views/.gitignore
+/storage/framework/sessions/*
+!/storage/framework/sessions/.gitignore
+/storage/logs/*
+!/storage/logs/.gitignore
